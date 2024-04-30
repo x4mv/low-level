@@ -3,6 +3,8 @@
 
 int main() 
 {
-    printf("hello world\n");
-    return 0;
+	char a[] = "sergio";
+	int age = 21;
+	printf("Hello my name is: %s and i'm %dyo\n", a, age);
+	return 0;
 }
