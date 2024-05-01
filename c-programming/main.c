@@ -3,8 +3,9 @@
 
 int main() 
 {
-	char a[] = "sergio";
+	char a[] = "tererePY";
 	int age = 21;
-	printf("Hello my name is: %s and i'm %dyo\n", a, age);
+	char p[] = "name";
+	printf("Hello my %s is: %s and i'm %dyo\n", p, a, age);
 	return 0;
 }
