@@ -16,5 +16,6 @@ int main(){
     printf("%d\n", arr[3]);
 
 
+    printf("The cube is: %d \n", result);
     return 0;
 }
